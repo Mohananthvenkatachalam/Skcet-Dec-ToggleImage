@@ -23,8 +23,10 @@ The React Image Toggler is a user-friendly web application built with React, Tai
    ```bash
    git clone https://github.com/your-username/your-repo.git
 2. **Install Dependencies:**
+    ```bash
    npm install
 3.**Run the Application:**
+   ```bash
    npm start
 
 ## Usage
