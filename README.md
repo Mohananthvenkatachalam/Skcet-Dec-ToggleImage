@@ -28,6 +28,7 @@ The React Image Toggler is a user-friendly web application built with React, Tai
 3.**Run the Application:**
    ```bash
    npm start
+```
 
 ## Usage
 1. Open the application in your web browser.
